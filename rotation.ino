@@ -4,7 +4,7 @@
   #include <avr/power.h>
 #endif
 #define PIN        6
-#define NUMPIXELS 24 //60+24+144
+#define NUMPIXELS 144 //24 //60+24+144
 
 Gaussian G[3];
 
